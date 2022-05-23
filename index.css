@@ -314,3 +314,9 @@ input[type=submit]:hover {
   background-color: lightgrey;
   padding: 20px;
 }
+
+contactform {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
